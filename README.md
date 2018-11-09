@@ -15,4 +15,18 @@ http://fatura-tasarimcisi.berkaygure.com
 - Demo veriler ile önizleme
 - Kendi Elemanını oluşturma (API tarafından sağlanır)
 
-### Kurulum & Kullanım (  elinize sağlık , kurulum ve sunucuda test için kısa bir açıklama yapabilirmisiniz ) 
+## Using 
+
+### Basic Setup
+
+**[EN]** 
+
+You can start to use basically. Firstly you should clone the repository, after that run `npm install` command to install dependencies. Lastly give the start with `npm start`.    
+
+Or you can download a release and open directly in your browser.
+
+**[TR]**
+
+Bu repoyu bilgisayarınza indirin. Sonrasında `npm install` komutu ile bağımlılıkları yükleyin ve `npm start` komutu ile uygulamayı çalıştırın.
+
+Ya da direk release menüsünden bir versiyon indirerek doğrudan tarayıcınızda çalıştırabilirsiniz. 
