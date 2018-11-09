@@ -14,3 +14,5 @@ http://fatura-tasarimcisi.berkaygure.com
 - Şablon içerinde arkaplan resmi seçebilme
 - Demo veriler ile önizleme
 - Kendi Elemanını oluşturma (API tarafından sağlanır)
+
+### Kurulum & Kullanım (  elinize sağlık , kurulum ve sunucuda test için kısa bir açıklama yapabilirmisiniz ) 
